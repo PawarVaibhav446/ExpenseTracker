@@ -1,3 +1,8 @@
+/*
+makeStyles: It is a function from Material-UI 
+that allows us to create CSS classes and rules using JavaScript objects
+*/
+
 import { makeStyles } from '@material-ui/core/styles';
 
 export default makeStyles(() => ({
